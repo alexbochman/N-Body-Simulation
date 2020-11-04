@@ -1,5 +1,7 @@
 # N-Body-Simulation
 
+![nbody gif](/nbody.gif)
+
 ### Compile and Run
 
 ```
