@@ -1,6 +1,5 @@
 # N-Body Simulation
-## Computing IV Course Assignment
-### [Source Code Here](https://github.com/alexbochman/N-Body-Simulation)
+## Computing IV Course Assignment | [Source Code Here](https://github.com/alexbochman/N-Body-Simulation)
 
 ![nbody gif](/nbody.gif)
 
